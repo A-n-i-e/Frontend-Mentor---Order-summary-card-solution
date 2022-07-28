@@ -23,7 +23,7 @@ html {
 main{
     background: url("pattern-background-desktop.svg") no-repeat;
     background-size: cover;
-    height: 70vh;
+    height: 50vh;
 }
 
 .container {
